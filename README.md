@@ -11,4 +11,4 @@ Using HTML to structure my website layout alongside CSS to make it into a clean 
 
 ## Lessons Learned:
 
-I love going to the gym myself and like tracking my calories from time to time, so I have decided to create my first project with JavaScript by creating an interactive and functional website that focuses on calorie intake. I have been playing around with HTML and CSS to create simplistic yet clean looking interfaces, and have now been able to make it into something users can play around with to figure out how their daily calorie intake is.
+I love going to the gym myself and like tracking my calories from time to time, so I have decided to create my first project with JavaScript by creating an interactive and functional website that focuses on calorie intake. I was able to learn more about how to implement JavaScript in order to manipulate a website and make it interactive. This was a project that taught me more about the syntax and how to target HTML elements to change their values and layout.
