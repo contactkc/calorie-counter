@@ -1,6 +1,8 @@
 # Calorie Counter
 This project is a simple and interactive web-based calorie counter that allows users to track their daily calorie intake and expenditure, and provides feedback on their remaining calories, indicating whether they are in a calorie surplus or deficit.
 
+![calorie-counter-preview](/calorie-counter-preview.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
