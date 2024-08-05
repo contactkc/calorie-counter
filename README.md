@@ -3,12 +3,33 @@ This project is a simple and interactive web-based calorie counter that allows u
 
 ![calorie-counter-preview](/calorie-counter-preview.png)
 
+## Features
+- **Daily Calorie Budget**: Users can set their daily calorie budget.
+- **Meal Entries**: Users can add multiple entries for Breakfast, Lunch, Dinner, and Snacks.
+- **Exercise Entries**: Users can add entries for exercise to account for calories burned.
+- **Calorie Calculation**: The application calculates the total consumed calories, burned calories, and the remaining calories based on the budget.
+- **Clear Functionality**: Users can clear all inputs to reset the form.
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
 
 Using HTML to structure my website layout alongside CSS to make it into a clean and modern feel with a dark theme look. I have used flexbox for layout management and responsive design to ensure the application looks good on different screen sizes. Implemented JavaScript to add interactivity to the application for features such as: adding a new entry for the given selections, calculating the remaining calories based on the budget, consumed calories, and burned calories which also handles invalid inputs and displays the results, and a button to clear all input fields and resets the form.
 
-## Lessons Learned:
+## How to Use:
 
-I love going to the gym myself and like tracking my calories from time to time, so I have decided to create my first project with JavaScript by creating an interactive and functional website that focuses on calorie intake. I was able to learn more about how to implement JavaScript in order to manipulate a website and make it interactive. This was a project that taught me more about the syntax and how to target HTML elements to change their values and layout.
+1. Clone the repository:
+```
+git clone https://github.com/contactkc/calorie-counter.git
+```
+2. Navigate to the project directory:
+```
+cd calorie-counter
+```
+3. Open `index.html` in your preferred web browser:
+```
+open index.html
+```
+
+## License
+This project is [MIT licensed](LICENSE.md).
